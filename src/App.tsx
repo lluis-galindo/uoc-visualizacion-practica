@@ -78,7 +78,7 @@ export function App() {
 
   // Datos remote
   const remoteSalaryData = remoteSalarySummary.map((item) => ({
-    name: item.mode === 'Remote' ? 'Remoto' : item.mode === 'Hybrid' ? 'Híbrido' : 'Presencial',
+    name: item.mode,
     salary: item.median,
   }));
 
