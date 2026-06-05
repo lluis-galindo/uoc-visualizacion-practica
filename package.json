@@ -6,8 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "pnpm run preprocess && tsc -b && vite build",
-    "check": "tsc -b --pretty false",
-    "preprocess": "node scripts/preprocessSurvey.mjs"
+    "check": "tsc -b --pretty false"
   },
   "dependencies": {
     "@fontsource-variable/inter": "^5.2.8",
