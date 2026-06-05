@@ -1,0 +1,112 @@
+{
+  "byToolBin": [
+    {
+      "bin": "0",
+      "n": 53,
+      "meanScore": 2.056603773584906,
+      "pctTrust": 43.39622641509434,
+      "pctDistrust": 39.62264150943396
+    },
+    {
+      "bin": "1–5",
+      "n": 6814,
+      "meanScore": 1.7374523040798355,
+      "pctTrust": 34.12092750220135,
+      "pctDistrust": 44.555327267390666
+    },
+    {
+      "bin": "6–10",
+      "n": 6121,
+      "meanScore": 1.6639438000326745,
+      "pctTrust": 31.285737624571148,
+      "pctDistrust": 47.57392582911289
+    },
+    {
+      "bin": "11–15",
+      "n": 1685,
+      "meanScore": 1.5649851632047478,
+      "pctTrust": 27.537091988130562,
+      "pctDistrust": 50.97922848664689
+    },
+    {
+      "bin": "16–20",
+      "n": 847,
+      "meanScore": 1.5454545454545454,
+      "pctTrust": 27.27272727272727,
+      "pctDistrust": 52.5383707201889
+    },
+    {
+      "bin": "21–25",
+      "n": 191,
+      "meanScore": 1.5549738219895288,
+      "pctTrust": 28.79581151832461,
+      "pctDistrust": 52.879581151832454
+    },
+    {
+      "bin": "26–50",
+      "n": 393,
+      "meanScore": 1.4987277353689568,
+      "pctTrust": 27.480916030534353,
+      "pctDistrust": 52.67175572519084
+    },
+    {
+      "bin": "51+",
+      "n": 110,
+      "meanScore": 1.2636363636363637,
+      "pctTrust": 27.27272727272727,
+      "pctDistrust": 62.727272727272734
+    }
+  ],
+  "topLanguages": [
+    {
+      "language": "JavaScript",
+      "n": 12495,
+      "meanTrust": 1.6874749899959984
+    },
+    {
+      "language": "HTML/CSS",
+      "n": 11441,
+      "meanTrust": 1.6766016956559742
+    },
+    {
+      "language": "SQL",
+      "n": 11308,
+      "meanTrust": 1.6810222851078882
+    },
+    {
+      "language": "Python",
+      "n": 9947,
+      "meanTrust": 1.6370765054790388
+    },
+    {
+      "language": "TypeScript",
+      "n": 9131,
+      "meanTrust": 1.679115102398423
+    },
+    {
+      "language": "Bash/Shell (all shells)",
+      "n": 9038,
+      "meanTrust": 1.505864129232131
+    },
+    {
+      "language": "C#",
+      "n": 5532,
+      "meanTrust": 1.6406362979031093
+    },
+    {
+      "language": "Java",
+      "n": 5155,
+      "meanTrust": 1.6500484966052376
+    },
+    {
+      "language": "PowerShell",
+      "n": 4295,
+      "meanTrust": 1.6346915017462165
+    },
+    {
+      "language": "C++",
+      "n": 3632,
+      "meanTrust": 1.4127202643171806
+    }
+  ]
+}

@@ -1,0 +1,86 @@
+[
+  {
+    "country": "Suiza",
+    "n": 331,
+    "nominalMedian": 142592,
+    "adjustedMedian": 120636.20981387478,
+    "costIndex": 118.2
+  },
+  {
+    "country": "Israel",
+    "n": 154,
+    "nominalMedian": 141188,
+    "adjustedMedian": 159714.9321266968,
+    "costIndex": 88.4
+  },
+  {
+    "country": "Irlanda",
+    "n": 133,
+    "nominalMedian": 116015,
+    "adjustedMedian": 151852.09424083767,
+    "costIndex": 76.4
+  },
+  {
+    "country": "Dinamarca",
+    "n": 198,
+    "nominalMedian": 100310.5,
+    "adjustedMedian": 121883.96111786149,
+    "costIndex": 82.3
+  },
+  {
+    "country": "Australia",
+    "n": 473,
+    "nominalMedian": 97855,
+    "adjustedMedian": 122933.41708542714,
+    "costIndex": 79.6
+  },
+  {
+    "country": "Canadá",
+    "n": 765,
+    "nominalMedian": 91198,
+    "adjustedMedian": 127016.71309192202,
+    "costIndex": 71.8
+  },
+  {
+    "country": "Noruega",
+    "n": 159,
+    "nominalMedian": 88945,
+    "adjustedMedian": 100276.21195039459,
+    "costIndex": 88.7
+  },
+  {
+    "country": "Nueva Zelanda",
+    "n": 151,
+    "nominalMedian": 84329,
+    "adjustedMedian": 116155.64738292011,
+    "costIndex": 72.6
+  },
+  {
+    "country": "Alemania",
+    "n": 1754,
+    "nominalMedian": 82254,
+    "adjustedMedian": 113610.49723756906,
+    "costIndex": 72.4
+  },
+  {
+    "country": "Países Bajos",
+    "n": 519,
+    "nominalMedian": 81210,
+    "adjustedMedian": 103452.22929936305,
+    "costIndex": 78.5
+  },
+  {
+    "country": "Austria",
+    "n": 228,
+    "nominalMedian": 79238,
+    "adjustedMedian": 106217.15817694369,
+    "costIndex": 74.6
+  },
+  {
+    "country": "Finlandia",
+    "n": 164,
+    "nominalMedian": 75990,
+    "adjustedMedian": 108402.28245363767,
+    "costIndex": 70.1
+  }
+]

@@ -1,0 +1,28 @@
+{
+  "totalResponses": 49191,
+  "employedWithSalary": 19576,
+  "countriesWithCostData": 12,
+  "genderAvailable": false,
+  "columnsUsed": {
+    "salary": "ConvertedCompYearly",
+    "toolCount": "ToolCountWork",
+    "remoteWork": "RemoteWork",
+    "aiTrust": "AIAcc",
+    "aiUsage": "AISelect",
+    "experience": "WorkExp",
+    "technologies": [
+      "LanguageHaveWorkedWith",
+      "DatabaseHaveWorkedWith",
+      "WebframeHaveWorkedWith",
+      "PlatformHaveWorkedWith",
+      "DevEnvsHaveWorkedWith",
+      "OfficeStackAsyncHaveWorkedWith"
+    ]
+  },
+  "salaryFilter": {
+    "min": 1000,
+    "max": 500000
+  },
+  "costOfLivingSource": "Numbeo (índice relativo, EE.UU.=100, junio 2025)",
+  "processedAt": "2026-06-01T15:42:23.466Z"
+}
